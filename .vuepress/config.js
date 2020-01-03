@@ -2,8 +2,8 @@ module.exports = {
     //开发端口
     port: "3000",
     //编译生成目录
-    dest: "dist",
-    base: "/",
+    dest: "docs",
+    base: "/docs/",
     title: '黄钰的个人博客',
     description: '笔记,工作记录,日记等',
     //多语言配置
