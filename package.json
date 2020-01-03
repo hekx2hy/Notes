@@ -1,0 +1,9 @@
+{
+  "name": "黄钰的个人博客",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
