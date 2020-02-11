@@ -21,5 +21,4 @@ git push -f https://hekx2hy:Hekx2Hy1314@github.com/hekx2hy/hekx2hy.github.io.git
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 #删除docs目录
-cd ../
-rm -rf docs
+
